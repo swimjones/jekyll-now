@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a 19 year old student in Los Angeles, CA. 
+I be trappin
 
 ### More Information
 
