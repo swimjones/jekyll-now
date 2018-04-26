@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a global student with extensive knowlege of the global fashion industry. 
+I am a global student with extensive knowlege of the fashion industry. 
 
 I am currently developing a suite of consumer health products, and also work as a fashion industry advisor to MUKISA— an Africa-inspired leather goods brand. 
 
