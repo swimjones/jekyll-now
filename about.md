@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-I am a 19 year old student in Los Angeles, CA. 
+I am a global student with extensive knowlege of the global fashion industry. 
 
-### More Information
+I am currently developing a suite of consumer health products, and also work as a fashion industry advisor to MUKISA— an Africa-inspired leather goods brand. 
 
-A place to include any other types of information that you'd like to include about yourself.
+I plan on entering investment banking and aspire to build a portfolio of groundbreaking consumer brands in health, fashion, and technology.
 
-### Keep in touch. 
+### Keep in touch.  
 
 [noahwill@usc.edu](mailto:noahwill@usc.edu)
