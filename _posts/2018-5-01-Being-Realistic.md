@@ -3,7 +3,7 @@ layout: post
 title: Being 'Realistic' Is Overrated.
 ---
 
-![]({{"/images/mike_tiger1.jpg" | absolute_url }})
+![Mike with Tiger]({{"/images/mike_tiger.jpg" | absolute_url }})
 
 I meet a lot of entrepreneurs, and I can say with confidence that most come off as a little bit delusional. It's not wrong— in fact, I think it's required in any honest attempt at something groundbreaking. 
 
