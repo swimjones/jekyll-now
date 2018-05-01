@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Being 'Realistic' Is Overrated.
+image: mike_tiger.jpg
 ---
 
 ![Mike with Tiger]({{"/images/mike_tiger.jpg" | absolute_url }})
