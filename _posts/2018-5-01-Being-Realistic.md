@@ -19,4 +19,4 @@ I believe that a clear, practical optimism is the healthy alternative to "being 
 
 This kind of pragmatic hopefulness is about having your head above water— being able to clearly articulate the possibility you imagine while still acknowledging the implied risk (and dealing with the laws of physics).
 
-Case in point? You can be optimistic and not have people thinking you need your head checked. Get out there, cultivate a healthy relationship with reality, and cut off everyone who says to "be realistic."
+Case in point? You can be optimistic and not have people thinking you need your head checked. Get out there, cultivate a healthy relationship with reality, and take precautions with everyone who says to "be realistic."
