@@ -13,7 +13,7 @@ I do not support this in the slightest.
 
 A recommendation to "be realistic" is not the altrustic savior-talk that it sounds like. More often than not, it's someone offloading their own limiting beliefs onto someone else. 
 
-I mean, let's be real, it's not like the person is saying they want to become a dolphin (in which case, they DEFINITELY need to be realistic), but more that they want to attempt something in spite of the status quo. 
+I mean, let's be real, it's not like the person is saying they want to become a dolphin (in which case, they DEFINITELY need to be realistic), but more that they want to attempt something at odds with the status quo. 
 
 I believe that a clear, practical optimism is the healthy alternative to "being realistic". Everyone should have a healthy relationship with reality, being able to understand risks and above all just be sensible. Even people who preach the Jobs-esque "reality distortion field" still know that the next Apple won't be built in a day.  
 
