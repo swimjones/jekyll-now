@@ -9,7 +9,7 @@ I meet a lot of entrepreneurs, and I can say with confidence that most come off 
 
 Still, I have a lot of problems with people (mostly those WITHOUT any skin in the game) talking about the need to be "realistic."
 
-I do not support this in the slightest. 
+I have some issues with this. 
 
 A recommendation to "be realistic" is not the altrustic savior-talk that it sounds like. More often than not, it's someone offloading their own limiting beliefs onto someone else. 
 
