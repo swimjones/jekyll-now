@@ -6,7 +6,7 @@ image: "/images/girls.jpg"
 
 ![Girls at Coachella!]({{"/images/girls.jpg" | absolute_url }})
 
-We will never regain our youth— and that's scary for some people to think about. 
+We will never regain our youth— and that is an opportunity. 
 
 Based on high-correlation trends and rapid growth in beauty (skincare, cosmetics), wellness (diet, fitness), and personal care (supplements, spiritual retreats), I argue that consumer health represents one of the more impactful business opportunities in our lifetime. 
 
