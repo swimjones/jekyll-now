@@ -35,7 +35,7 @@ Deep brands are defensible because they have differentiated themselves to the ve
 
 ### The point:
 
-Companies like Dior, Apple, and Lush are mavericks of their own kind. While their brands did help them look, feel, and connect with their customers differently, it was their product vision and sustained innovation that etched their names in the history books. 
+Companies like Dior, Apple, and Lush are mavericks in their industries. While their brands did help them look, feel, and connect with their customers differently, it was their product vision and sustained innovation that etched their names in the history books. 
 
 Brand is certainly not a second-thought for companies today, but without true aesthetic, technical, or cultural innovation at the core of your business, you won't survive long enough for your brand to matter anyways. 
 
