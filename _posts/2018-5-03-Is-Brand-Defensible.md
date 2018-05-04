@@ -26,7 +26,7 @@ A "deep" brand is a company wherein the product (whatever it may be) is inextric
 
 The next time you see a branded product, try this: 
 
-1. Cover up any overt branding (logos, names, tags, environment, etc.)
+1. Cover/remove any overt branding (logos, names, packaging, environment, etc.)
 2. Ask yourself, "Would someone else still know that this is brand X?"
 
 The crux of this thought experiment has to do with piercing the veil of a company's branding efforts. Because a wrap-brand is essentially selling an commodity, when the "layer" of branding is removed (by covering/removal) the brand is instantly transformed back into a basic commodity. For any of the wrap brands mentioned above, they all fail the test above. 
