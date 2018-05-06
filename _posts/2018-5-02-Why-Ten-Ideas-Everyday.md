@@ -32,6 +32,9 @@ The flip side of that is realizing what I don't pay as much attention to, in thi
 3. Biodegradable shotgun shells and munitions casings. 
 4. Artwork valuation algorithm— estimate a value based on historical prices, current/past ownership, location, association with movements. 
 
+------------------------
+
+#### <i>Noah Williams is a student, writer, and occasional entrepreneur living in Los Angeles, CA. <a href="https://twitter.com/swimjones">Follow him on Twitter.</a></i>
 
 
 

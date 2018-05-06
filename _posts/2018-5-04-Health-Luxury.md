@@ -71,6 +71,9 @@ With the fast-approaching nexus in beauty, wellness, and personal care, there is
 
 Why not take advantage? 
 
+------------------------
+
+#### <i>Noah Williams is a student, writer, and occasional entrepreneur living in Los Angeles, CA. <a href="https://twitter.com/swimjones">Follow him on Twitter.</a></i> 
 
 
 

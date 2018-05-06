@@ -41,7 +41,9 @@ Brand is certainly not a second-thought for companies today, but without true ae
 
 Something to keep in mind. 
 
+------------------------
 
+#### <i>Noah Williams is a student, writer, and occasional entrepreneur living in Los Angeles, CA. <a href="https://twitter.com/swimjones">Follow him on Twitter.</a></i>
 
 
 
