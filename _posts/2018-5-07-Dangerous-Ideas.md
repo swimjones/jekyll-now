@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Four Dangerous Ideas To Make You A Maverick
+title: Four Dangerous Ideas To Free Your Thinking
 image: "/images/shark.jpg"
 ---
 
@@ -8,9 +8,9 @@ image: "/images/shark.jpg"
 
 Life is a game of evening the odds.
 
-For most of us, from our youth we are conditioned with ideas and feedback loops that stifle creativity, snuff out ambition, and make us fear the unknown. Without proper <a href="https://nalukai.org/">intervention</a>, we are conditioned to obey rules, disregard common sense, and <a href="https://www.forbes.com/sites/steveodland/2012/03/24/college-costs-are-soaring/#6e638e3d1f86">indulge on overpriced credentials</a> to avoid falling through the widening cracks in our society.
+From our youth most of us are conditioned with ideas and feedback loops that stifle creativity, snuff out ambition, and make us fear the unknown. Without proper <a href="https://nalukai.org/">intervention</a>, we are conditioned to jump through hoops, disregard common sense, and <a href="https://www.forbes.com/sites/steveodland/2012/03/24/college-costs-are-soaring/#6e638e3d1f86">indulge on overpriced credentials</a> to avoid falling through the widening cracks in our society.
 
-But I don't accept those terms, so I keep four central ideas in mind:
+But I don't accept those terms, and you don't have to either, so I keep four central ideas in mind:
 
 ## Everything is conditional.
 
@@ -22,7 +22,7 @@ Nothing interesting comes from following the rules. The most compelling scenario
 
 So be an anomaly.
 
-Every rule can be broken, every agreement renegotiated, and every "truth" challenged. Holding this truth allows you a degree of freedom unavailable to most. With this in mind, every obstacle IS the opportunity.
+Every rule can be broken, every agreement negotiated, and every "truth" challenged. Knowing this allows you a degree of freedom unavailable to most. With this in mind, every obstacle IS the opportunity.
 
 ## You don't have to be an expert.
 
@@ -30,9 +30,9 @@ Kevin Systrom always says "You don't have to know everything. You just need to b
 
 If you don't know Kevin Systrom is, check your phone. You probably use his app.
 
-The reality is that we live in a technocracy (society influenced by elite class of technical experts), and the kind of imposter syndrome it ingrains convinces people they can't make a difference unless they're an undeniable expert in the field. I know people who, for that very fear of failure, are too afraid to just <i>try something new</i>—people can't imagine doing something new without acquiring a credential for it first.
+The reality is that we live in a technocracy (society influenced by elite class of technical experts), and the kind of imposter syndrome it ingrains convinces people they can't make a difference unless they're a credentialed expert in the field. I know people who, for that very fear of failure, are too afraid to just <i>try something new</i>—people who can't imagine doing something new without acquiring a degree or certification for it first.
 
-I fully support developing a strong theoretical background, but the idea that you need PhD-level knowledge to make a material impact is backwards and totally antiquated.
+I fully support developing a strong theoretical background (especially in professional contexts), but the idea that you need PhD-level knowledge to make a material impact is backwards and totally antiquated.
 
 ## Life is a single-player game.
 
