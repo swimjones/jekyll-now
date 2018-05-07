@@ -50,7 +50,7 @@ When you want something bad enough, everything becomes an advantage. Whether thi
 
 Some things in life will be tough, or boring, or soul-crushingly bureaucratic, but if you can wrap your head around this idea—that any opportunity to keep moving forward is a good one— you will open yourself up to a world of possibility and find the advantage in every moment, even the "bad" ones.
 
-Because the point isn't always to win. Sometimes the goal is just to <i>keep the play going</i>.
+Because even though we all want to win, sometimes it's enough to just <i>keep the play going</i>.
 
 ------------------------
 
