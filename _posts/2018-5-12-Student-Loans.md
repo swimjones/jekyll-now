@@ -1,11 +1,12 @@
 ---
 layout: post
-title: 5 Great Books You'll Never See In A Classroom
+title: The Dangers of Student Loans
 image: "/images/studentloans.jpg"
 ---
 
 ![Reading list!]({{"/images/studentloans.jpg" | absolute_url }})
 
+Coming soon!
 
 
 ------------------------
