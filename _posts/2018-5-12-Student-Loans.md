@@ -4,7 +4,7 @@ title: The Dangers of Student Loans
 image: "/images/studentloans.jpg"
 ---
 
-![Reading list!]({{"/images/studentloans.jpg" | absolute_url }})
+![Student Loans!]({{"/images/studentloans.jpg" | absolute_url }})
 
 Coming soon!
 
